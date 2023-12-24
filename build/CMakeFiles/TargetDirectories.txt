@@ -1,0 +1,3 @@
+/home/beegass/Documents/Coding/game-of-life/build/CMakeFiles/gol.dir
+/home/beegass/Documents/Coding/game-of-life/build/CMakeFiles/edit_cache.dir
+/home/beegass/Documents/Coding/game-of-life/build/CMakeFiles/rebuild_cache.dir

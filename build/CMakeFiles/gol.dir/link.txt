@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/gol.dir/src/gol.c.o CMakeFiles/gol.dir/src/board.c.o CMakeFiles/gol.dir/src/rules.c.o CMakeFiles/gol.dir/src/cells.c.o -o gol 
